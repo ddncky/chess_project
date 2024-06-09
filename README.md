@@ -1,4 +1,3 @@
-<br />
 <div align="center">
   <a href="https://https://github.com/ddncky/chess_project">
     <img src="https://github.com/ddncky/chess_project/assets/131533545/97b70cd8-92f3-4c88-b0fc-bc2e33338295" alt="Logo">
