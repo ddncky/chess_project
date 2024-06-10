@@ -64,7 +64,7 @@
    $ source venv/bin/activate
 3. Install pygame.
     ```sh
-   (venv) $ pip install --upgade pip
+   (venv) $ pip install --upgrade pip
    (venv) $ pip install pygame
    
    ```
@@ -82,7 +82,8 @@ This project was my very first one. A large part of the technical work was done 
 Dmitry Dudnytskyi
 
 [![Telegram Badge](https://img.shields.io/badge/-ddncky-blue?style=social&logo=telegram&link=https://t.me/ddncky)](https://t.me/ddncky)<br>
-[![Gmail Badge](https://img.shields.io/badge/-montekristo705@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:montekristo705@gmail.com)](montekristo705@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-montekristo705@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:montekristo705@gmail.com)](mailto:montekristo705@gmail.com)
+
 <p align='left'>
 <p align="right">(<a href="#features">back to top</a>)</p>
 
