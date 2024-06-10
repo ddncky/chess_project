@@ -73,7 +73,7 @@
 
 
 ## Explanation and appreciations
-This project was my very first one. A large part of the technical work was done with the help of a YouTube playlist by user Eddie Sharick. Thanks to this, I was able to grasp important aspects of programming at an early stage of my learning and work on such an interesting project.
+This project was my very first one. A large part of the technical work was done with the help of a YouTube playlist by user Eddie Sharick. Thanks to this, I was able to grasp important aspects of programming at an early stage of my learning and work on such an interesting project. I would also like to note that the project contains some flaws, but I am intentionally leaving it in its original form because, at that time, I couldn't have done better.
 
 - [Eddie Sharick's chess playlist](https://www.youtube.com/watch?v=EnYui0e73Rs&list=PLBwF487qi8MGU81nDGaeNE1EnNEPYWKY_&ab_channel=EddieSharick)
 
